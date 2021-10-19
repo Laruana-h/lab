@@ -1,4 +1,5 @@
 class Catalogue {
+  // Testing git push
   constructor(title) {
     this.title = title;
     this.products = [];
